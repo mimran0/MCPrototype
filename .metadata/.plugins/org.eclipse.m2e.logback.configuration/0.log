@@ -49,3 +49,25 @@
 2017-11-27 17:23:26,483 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\main\resources
 2017-11-27 17:23:26,493 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-11-27 17:23:26,500 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\test\resources
+2017-11-27 17:33:48,602 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-27 17:33:48,609 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\main\resources
+2017-11-27 17:33:48,613 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-27 17:33:48,613 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\test\resources
+2017-11-27 17:34:35,008 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2017-11-27 17:34:38,639 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\imran\workspace9\mc
+2017-11-27 17:34:38,640 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2017-11-27 17:34:44,539 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-27 17:34:44,539 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\main\resources
+2017-11-27 17:34:44,542 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-27 17:34:44,543 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\test\resources
+2017-11-27 17:37:01,219 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: shahajada.imran.eclipse:mc:0.0.1-SNAPSHOT @ C:\Users\imran\workspace9\mc\pom.xml.
+2017-11-27 17:37:02,226 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-27 17:37:02,227 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\main\resources
+2017-11-27 17:37:02,229 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-27 17:37:02,230 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\test\resources
+2017-11-27 17:37:10,182 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\imran\workspace9\mc
+2017-11-27 17:37:10,182 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2017-11-27 17:37:15,728 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-27 17:37:15,729 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\main\resources
+2017-11-27 17:37:15,738 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-27 17:37:15,738 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imran\workspace9\mc\src\test\resources
